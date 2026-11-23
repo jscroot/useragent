@@ -1,3 +1,9 @@
+---
+redirect_to: https://croot.js.org/docs/useragent
+---
+
+> **JSCroot sekarang CrootJS.** Modul `useragent.js` sekarang ada di [croot.js.org/docs/useragent](https://croot.js.org/docs/useragent). Repo ini tidak diperbarui lagi; file lama tetap ada supaya situs yang masih memakainya tidak rusak.
+
 # useragent
 useragent
 
